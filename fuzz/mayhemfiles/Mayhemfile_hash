@@ -1,0 +1,7 @@
+project: rust-boomphf
+target: hash
+duration: 90
+
+cmds:
+    - cmd: /hash
+
