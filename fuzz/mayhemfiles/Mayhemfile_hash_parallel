@@ -1,0 +1,6 @@
+project: rust-boomphf
+target: hash_parallel
+duration: 300
+
+cmds:
+  - cmd: /hash_parallel

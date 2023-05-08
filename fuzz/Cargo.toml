@@ -23,3 +23,9 @@ name = "hash"
 path = "fuzz_targets/hash.rs"
 test = false
 doc = false
+
+[[bin]]
+name = "hash_parallel"
+path = "fuzz_targets/hash_parallel.rs"
+test = false
+doc = false
